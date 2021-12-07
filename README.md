@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on [a database website for mobile game, Genshin Impact](https://github.com/WillisLi/Genshin-DB)
 - 💡 For the future I want to create an application using TypeScript and GraphQL
-- 📜 I want to explore more features of what AWS has to offer!
-- ⚽ I love Association Football!
+- 📜 I want to learn and explore more features of what AWS has to offer!
+- ⚽ I love playing Association Football!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
