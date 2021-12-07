@@ -1,8 +1,8 @@
 <h1 align="center">Hi!, I'm Willis</h1>
-<h3 align="center">An enthusiastic full stack web developer looking to learn more from the coding space</h3>
+<h3 align="center">An enthusiastic full stack web developer looking to learn more from the coding space!</h3>
 
 - 🔭 I’m currently working on [a database website for mobile game, Genshin Impact](https://github.com/WillisLi/Genshin-DB)
-
+- 💡 For the future I want to create an application using TypeScript and GraphQL
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/willisli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/willisli/" height="30" width="40" /></a>
