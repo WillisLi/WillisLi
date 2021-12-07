@@ -3,6 +3,9 @@
 
 - 🔭 I’m currently working on [a database website for mobile game, Genshin Impact](https://github.com/WillisLi/Genshin-DB)
 - 💡 For the future I want to create an application using TypeScript and GraphQL
+- 📜 I want to explore more features of what AWS has to offer!
+- ⚽ I love Association Football!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/willisli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/willisli/" height="30" width="40" /></a>
