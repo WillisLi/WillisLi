@@ -1,7 +1,7 @@
 <h1 align="center">Hi!, I'm Willis</h1>
 <h3 align="center">An enthusiastic full stack web developer looking to learn more from the coding space!</h3>
 
-- 🔭 I’m currently working on [a database website for mobile game, Genshin Impact](https://github.com/WillisLi/Genshin-DB)
+- 🔭 I’m currently working on [a database website for mobile game, Genshin Impact](https://genshinsphere.com/)
 - 💡 For the future I want to create an application using TypeScript and GraphQL
 - 📜 I want to learn and explore more features of what AWS has to offer!
 - ⚽ I love playing Association Football!
